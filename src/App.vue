@@ -99,27 +99,27 @@ import keyAudio from './assets/audios/key.wav'
             "15":{
               "nome": "Italo Ferreira",
               "pais": "Brasil - Baiá Formosa",
-              "imagem": "./assets/imagens/italo.jpg"
+              "imagem": "https://if15.com.br/wp-content/uploads/2021/03/italo_pipe5.jpg"
             },
             "10":{
               "nome": "Gabriel Medina",
               "pais": "Brasil - São Sebastiao ",
-              "imagem": "./assets/imagens/png-transparent-gabriel-medina-billabong-pipeline-masters-t-shirt-innersport-tour-of-austria-others-tshirt-microphone-arm.png"
+              "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnW4hIS9QY-AJC-_NPUC5J0JcfGrVI2UH-Jq9bCJnRaw&s"
             },
             "09":{
               "nome": "Yago Dora",
               "pais": "Brasil - Florianópolis",
-              "imagem": "./assets/imagens/Yago-Dora-MN2S.svg"
+              "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTeYvK7Rlhn6xBQcgum4H18GUXpT37yZIBaQ8S9R9LmR7wi2QoQ_FPmFiWdJWD5p-vHNI&usqp=CAU"
             },
             "05":{
               "nome": "Jadson Andre",
               "pais": "Brasil - Natal",
-              "imagem": "./assets/imagens/jadsonAndre.jpg"
+              "imagem": "https://conteudo.imguol.com.br/c/esporte/5d/2022/06/02/jadson-andre-1654202725144_v2_1x1.jpg"
             },
             "77":{
               "nome": "Filipe Toledo",
               "pais": "Brasil - Ubatuba",
-              "imagem": "./assets/imagens/Filipe-Toledo_22Finals_DIZ_6220_Thiago-Diz.jpg"
+              "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6yMPY8KSSxz2R1Hc5Vq1fmeU8ejAPLWPNul3hJh8AZ0rSP86vB9zTbdffhf10vWl66g8&usqp=CAU"
             }
           }
         }

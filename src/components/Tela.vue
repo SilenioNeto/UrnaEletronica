@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div v-if="candidato.imagem" class="urna-tela-voto-imagem">
-                <img :src="candidato.imagem">
+                <img class="imagem" :src="candidato.imagem">
             </div>
             <div class="urna-tela-voto-instrucoes">
                 <p>Aperte a tecla:</p>
@@ -114,5 +114,9 @@ export default{
         height: 150px;
         border: 1px solid var(--dark-border-color);
 
+    }
+    .imagem{
+        width: 108px;
+        height: 148px;
     }
 </style>
